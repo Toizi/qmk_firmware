@@ -1,0 +1,232 @@
+[
+  [
+    {
+      "f": 4,
+      "w": 12,
+      "h": 0.5,
+      "d": true
+    },
+    "<b>Miryoku QWERTY</b>"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2,
+      "c": "#c5c5c5",
+      "t": "#000000\n#908c8c\n#003ed6\n#068f00\n#ffffff"
+    },
+    "E\nF8\n<b>*<b>\n8\nExtra",
+    {
+      "x": 6
+    },
+    "I\n\n<i class='fa fa-copy'></i>\n<i class='fa fa-copy'></i>\nExtra"
+  ],
+  [
+    {
+      "y": -0.87,
+      "x": 1,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00\n#ffffff"
+    },
+    "W\nF7\n&\n7\nTap",
+    {
+      "x": 1
+    },
+    "R\nF9\n<b>(<b>\n9\nBase",
+    {
+      "x": 4
+    },
+    "U\n\n<i class='fa fa-clipboard'></i>\n<i class='fa fa-clipboard'></i>\nBase",
+    {
+      "x": 1
+    },
+    "O\n\n<i class='kb kb-Scissors-2'></i>\n<i class='kb kb-Scissors-2'></i>\nTap"
+  ],
+  [
+    {
+      "y": -0.88,
+      "x": 4,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00"
+    },
+    "T\n<i class='kb kb-Unicode-PrintScreen-1'></i>\n<b>}<b>\n]",
+    {
+      "x": 2
+    },
+    "Y\n\n<i class='kb kb-Redo-1'></i>\n<i class='kb kb-Redo-1'></i>"
+  ],
+  [
+    {
+      "y": -0.75,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00\n#ffffff"
+    },
+    "Q\nF12\n{\n[\nBoot",
+    {
+      "x": 10,
+      "t": "#000000\n#908c8c\n#003ed6\n#068f00\n#ffffff"
+    },
+    "P\n\n<i class='kb kb-Undo-3'></i>\n<i class='kb kb-Undo-3'></i>\nBoot"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00"
+    },
+    "D\nF5\n%\n5\n<i class='fa fa-angle-up'></i>",
+    {
+      "x": 6
+    },
+    "K\n<i class='kb kb-Multimedia-Volume-Down-1'></i>\n⬇\n▼\n<i class='fa fa-angle-up'></i>"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "x": 1
+    },
+    "S\nF4\n$\n4\n<i class='mss mss-Unicode-Alternate-3'></i>",
+    {
+      "x": 1,
+      "n": true
+    },
+    "F\nF6\n^\n6\n<i class='kb kb-Arrows-Up-Circle-Filled'></i>",
+    {
+      "x": 4,
+      "n": true
+    },
+    "J\n<i class='kb kb-Multimedia-Rewind-Start'></i>\n⬅\n◀\n<i class='kb kb-Arrows-Up-Circle-Filled'></i>",
+    {
+      "x": 1
+    },
+    "L\n<i class='kb kb-Multimedia-Volume-Up-2'></i>\n⬆\n▲\n<i class='mss mss-Unicode-Alternate-3'></i>"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 4
+    },
+    "G\n<i class='fa fa-lock'></i>\n+\n=",
+    {
+      "x": 2
+    },
+    "H\n\n\nCap"
+  ],
+  [
+    {
+      "y": -0.75
+    },
+    "A\nF11\n<b>:<b>\n<b>;<b>\n<i class='kb kb-batman'></i>",
+    {
+      "x": 10,
+      "t": "#000000\n#908c8c\n#003ed6\n#068f00"
+    },
+    "<b>'<b>\n<i class='kb kb-Multimedia-FastForward-End'></i>\n➡\n▶\n<i class='kb kb-batman'></i>"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 2,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00\n#ffffff"
+    },
+    "C\nF2\n@\n2\nOpp",
+    {
+      "x": 6
+    },
+    "<b>,<b>\n\n⇩\nPDn\nOpp"
+  ],
+  [
+    {
+      "y": -0.8700000000000001,
+      "x": 1,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00"
+    },
+    "X\nF1\n!\n1",
+    {
+      "x": 1,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00\n#ffffff"
+    },
+    "V\nF3\n#\n3\nCur",
+    {
+      "x": 4
+    },
+    "M\n\n⇦\nHom\nCur",
+    {
+      "x": 1,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00"
+    },
+    "<b>.<b>\n\n⇧\nPUp"
+  ],
+  [
+    {
+      "y": -0.8799999999999999,
+      "x": 4
+    },
+    "B\nBrk\n|\n\\",
+    {
+      "x": 2
+    },
+    "N\n\n\nIns"
+  ],
+  [
+    {
+      "y": -0.75,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00\n#9f00d6"
+    },
+    "Z\nF10\n~\n`\nButton",
+    {
+      "x": 10,
+      "t": "#000000\n#908c8c\n#003ed6\n#068f00\n#9f00d6"
+    },
+    "/\n\n⇨\nEnd\nButton"
+  ],
+  [
+    {
+      "y": -0.33999999999999986,
+      "x": 2.5,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00\n#908c8c"
+    },
+    "ESC\n<i class='kb kb-Hamburger-Menu'></i>\n(\n.\nMedia",
+    {
+      "x": 5
+    },
+    "<i class='kb kb-Unicode-DeleteRight-Big'></i>\n<i class='kb kb-Multimedia-Mute-1'></i>\nM\n<i class='kb kb-Unicode-DeleteRight-Big'></i>\nFun"
+  ],
+  [
+    {
+      "r": 18,
+      "rx": 3,
+      "ry": 7.75,
+      "y": -4.09,
+      "x": -0.5,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00\n#068f00",
+      "n": true
+    },
+    "<b>␣<b>\n<b>␣<b>\n)\n0\nNav"
+  ],
+  [
+    {
+      "r": 36,
+      "y": -1,
+      "x": -0.5,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00\n#003ed6"
+    },
+    "<i class='kb kb-Tab-1'></i>\n<i class='kb kb-Tab-1'></i>\n<b>_<b>\n<b>-<b>\nMouse"
+  ],
+  [
+    {
+      "r": -36,
+      "rx": 9,
+      "y": -4.09,
+      "x": -0.5
+    },
+    "<i class='kb kb-Return-2'></i>\n<i class='kb kb-Multimedia-Stop'></i>\nR\n<i class='kb kb-Return-2'></i>\nSym"
+  ],
+  [
+    {
+      "r": -18,
+      "y": -1,
+      "x": -0.5,
+      "t": "#000000\n#908c8c\n#1e4aff\n#068f00\n#068f00",
+      "n": true
+    },
+    "<i class='kb kb-Unicode-BackSpace-DeleteLeft-Big'></i>\n<i class='kb kb-Multimedia-Play-Pause'></i>\nL\n<i class='kb kb-Unicode-BackSpace-DeleteLeft-Big'></i>\nNum"
+  ]
+]
