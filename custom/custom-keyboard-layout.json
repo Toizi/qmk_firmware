@@ -223,7 +223,7 @@
       "t": "#000000\n#908c8c\n\n#068f00\n#908c8c",
       "f": 4
     },
-    "ESC\n<i class='kb kb-Hamburger-Menu'></i>\n\n.\nMedia",
+    "ESC\n<i class='kb kb-Hamburger-Menu'></i>\n\n<b>:<b>\nMedia",
     {
       "x": 5,
       "t": "#000000\n#908c8c\n#1e4aff\n#068f00\n#908c8c",
@@ -242,7 +242,7 @@
       "f": 4,
       "n": true
     },
-    "<b>␣<b>\n<b>␣<b>\n_\n-\nNav"
+    "<b>␣<b>\n<b>␣<b>\n<b>_<b>\n<b>-<b>\nNav"
   ],
   [
     {
